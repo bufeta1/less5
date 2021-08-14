@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALK Tall Nusxuri';
+    src: url('../fonts/alk-tall-nusxuri-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/alk-tall-nusxuri-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/alk-tall-nusxuri-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/alk-tall-nusxuri-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/alk-tall-nusxuri-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/alk-tall-nusxuri-webfont.svg#alk_tall_nusxuriregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'WindSong';
+    src: url('../fonts/WindSong-Medium.eot');
+    src: url('../fonts/WindSong-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/WindSong-Medium.woff2') format('woff2'),
+        url('../fonts/WindSong-Medium.woff') format('woff'),
+        url('../fonts/WindSong-Medium.ttf') format('truetype'),
+        url('../fonts/WindSong-Medium.svg#WindSong-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

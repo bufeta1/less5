@@ -1,0 +1,137 @@
+
+.right-div{
+    display: inline-block;
+    vertical-align: top;
+}
+.left-div{
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    height: 190px;
+    margin-right: 20px;
+}
+.div-p{
+    width: 200px;
+    color: #B1B1B1;
+    font-size: #B1B1B1;
+    margin-left: 16px;
+    margin-top: 10px;
+   
+}
+.div-sub-head{
+    margin-left: 16px;
+    margin-top: 37px;
+    color: #5863F8;
+    font-size: 14px;
+   
+}
+.right-div{
+    display: inline-block;
+    vertical-align: top;
+}
+.left-div{
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #F8F8F8;
+    height: 190px;
+    margin-right: 20px;
+}
+.div-p{
+	font-family: "ALKDots", sans-serif;
+    width: 200px;
+    color: #B1B1B1;
+    font-size: #B1B1B1;
+    margin-left: 16px;
+    margin-top: 10px;
+  
+}
+.div{
+    margin-left: 16px;
+    margin-top: 37px;
+    color: #5863F8;
+    font-size: 14px;
+    font-family: 'WindSong';
+   
+}
+.div-head{
+	font-family: "ALKDots", sans-serif;
+    font-size: 18px;
+    margin-left: 16px;
+    color: #000000;
+   
+}
+.left-div1{
+    width: 370px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #BE2B2B;
+    height: 190px;
+}
+.main{
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+    width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first{
+	font-family: 'WindSong';
+    color: #5863F8;
+    font-size: 14px;
+    margin-top: 82px;
+  
+}
+.first-head{
+	font-family: 'Style Script', cursive;
+    color: #000000;
+    font-size: 42px;
+    width: 390px;
+    margin-bottom: 50px;
+   
+}
+
+/* section styles */
+
+.sec-div{
+    width: 260px;
+    display: inline-block;
+}
+.sec-sub{
+    font-family: 'WindSong';
+    margin-top: 23px;
+    text-align: center;
+    color: #5863F8;
+    font-size: 14px;
+   
+}
+.sec-head{
+	font-family: 'ALK Tall Nusxuri';
+
+    text-align: center;
+    color: #000000;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+   
+}
+.sec-p{
+	font-family: 'ALK Tall Nusxuri';
+    width: 260px;
+    text-align: center;
+    color: #B1B1B1;
+    font-size: 14px;
+   
+}
+.sec2-div{
+	font-family: 'ALK Tall Nusxuri';
+    margin-left: 105px;
+    width: 260px;
+    display: inline-block;
+}
+.sec3-div{
+	font-family: 'ALK Tall Nusxuri';
+    margin-left: 105px;
+    width: 260px;
+    display: inline-block;
+}
